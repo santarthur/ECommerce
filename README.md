@@ -46,4 +46,4 @@ Possível integração futura com ferramentas como Power BI, Data Studio, entre 
 
 <br>
 
-##💡 Nota: Este projeto representa uma entrega robusta e estratégica, ideal para demonstrar domínio em modelagem de dados complexos , pensamento orientado ao negócio e capacidade de estruturar uma base sólida para aplicações reais.
+💡 Nota: Este projeto representa uma entrega robusta e estratégica, ideal para demonstrar domínio em modelagem de dados complexos , pensamento orientado ao negócio e capacidade de estruturar uma base sólida para aplicações reais.
