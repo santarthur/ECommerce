@@ -1,4 +1,5 @@
 Banco de dados de comércio eletrônico
+br
 Este projeto consiste na criação de um banco de dados completo e relacional desenvolvido para atender as necessidades de um sistema de e-commerce . Ele foi projetado para organizar, cruzar e provar dados estratégicos relacionados a clientes, produtos, categorias, pedidos, fornecedores, fornecedores e muito mais.
 
 🧱 Estrutura do Banco
